@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureFunctions_Isolates_ServiceBusTrigger_Sample": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7275",
+      "launchBrowser": false
+    }
+  }
+}
